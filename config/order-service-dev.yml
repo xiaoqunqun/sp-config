@@ -11,8 +11,6 @@ spring:
     
 server:
  port: 8101
-server:
- port: 8102
 
  
 eureka:
